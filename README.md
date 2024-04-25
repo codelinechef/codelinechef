@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anant Sharma!!</h1>
 <h3 align="center">An Under graduate student at SRM Institute of Science and Technology || Software Developer Enthusiast</h3>
+<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelinechef&label=Profile%20views&color=0e75b6&style=flat" alt="codelinechef" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelinechef" alt="codelinechef" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development/telwindAI**
 
