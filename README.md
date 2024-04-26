@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelinechef&label=Profile%20views&color=0e75b6&style=flat" alt="codelinechef" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development/telwindAI**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codelinechef?tab=repositories](https://github.com/codelinechef?tab=repositories)
 
-- 💬 Ask me about **C++, Python, Full Stack Development**
+- 💬 Ask me about **C++, Advance Algorithm, Full Stack Development**
 
 - 📫 How to reach me **aa3815@srmist.edu.in**
 
