@@ -25,3 +25,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codelinechef&show_icons=true&locale=en&layout=compact" alt="codelinechef" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codelinechef&show_icons=true&locale=en" alt="codelinechef" /></p>
+
+<div align="left">
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31huhe76cnomr5ezk4tgsa4y44l4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31huhe76cnomr5ezk4tgsa4y44l4&count=5&unique=true" alt="Spotify recently played" width="400"  />
+  </a>
+</div>
+
+###
