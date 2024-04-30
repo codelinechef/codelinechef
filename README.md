@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codelinechef?tab=repositories](https://github.com/codelinechef?tab=repositories)
 
-- 💬 Ask me about **C++, Advance Algorithm, Full Stack Development**
+- 💬 Ask me about **C++, Advance Algorithms, Full Stack Development**
 
 - 📫 How to reach me **aa3815@srmist.edu.in**
 
