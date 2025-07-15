@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anant Sharma!!</h1>
 <h3 align="center" I'm Undergraduate student at SRM Institute of Science and Technology W/S AI&ML </h3>
-<h3 align="center">Software Developer Enthusiast</h3>
+<h3 align="center">Agentic AI and ML-OPS Developer</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
 
