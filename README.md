@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelinechef&label=Profile%20views&color=0e75b6&style=flat" alt="codelinechef" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/codelinechef?tab=repositories](https://github.com/codelinechef?tab=repositories)**
+- 👨‍💻 All of my projects are available at [https://github.com/codelinechef?tab=repositories](https://github.com/codelinechef?tab=repositories)
 
 - 📫 How to reach me **aa3815@srmist.edu.in**
 
